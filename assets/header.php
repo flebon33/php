@@ -12,4 +12,12 @@ include "assets/config.php";
     <title>Titre</title>
 </head>
 <body>
-<div class = 'mx-auto'>
+<div class="row">
+<ul class="list-group list-group-horizontal mx-auto">
+  <li class="list-group-item"><a href="index.php">accueil</a></li>
+  <li class="list-group-item"><a href="jeu.php">jeu</a></li>
+  <li class="list-group-item"><a href="login.php">login</a></li>
+  <li class="list-group-item" ><a href="calculatrice.php">calculatrice</a></li>
+  <!-- <li class="list-group-item" href=""></li> -->
+</ul>
+</div>
