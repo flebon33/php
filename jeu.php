@@ -2,7 +2,7 @@
 include "assets/header.php";
 include "assets/footer.php";
 ?>
-<form action="participer.php" method="post">
+<form action="participer.php" method="post" class="col-lg-4 mx-auto">
     <div class="form-group">
         <label for="">email</label>
         <input type="email" class="form-control" id="" placeholder="email" name="email">
